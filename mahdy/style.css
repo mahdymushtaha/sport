@@ -1,0 +1,163 @@
+*{
+    margin: 0;
+}
+nav{
+    display: flex;
+    justify-content: space-around;
+    padding: 20px 0;
+}
+nav ul{
+    display: flex;
+}
+nav ul li{
+    margin-right: 30px;
+    list-style: none;
+}
+.hero{
+    background-image: url(../mahdy/2000_5ae709418dd8d\ \(1\).webp);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    padding: 120px 0;
+    height: 150px;
+}
+.hero h1{
+    font-size: 50px;
+    color: #fff;
+    padding: 10px 0;
+}
+.hero p{
+    font-size: 35px;
+    color: #fff;
+}
+.blog{
+    padding: 50px 0;
+    background-color: #f4f4f4;
+}
+.blog h1{
+    font-size: 50px;
+    padding: 20px 0;
+}
+.blog .blog_data{
+    color: #f00;
+    display: flex;
+    justify-content: space-around;
+}
+.blog .blog_data div{
+    background-color: #fff;
+    margin-right: 50px;
+    margin-left: 50px;
+    padding: 30px 0;
+    border-radius: 5px;
+}
+.blog .blog_data h1{
+    font-size: 50px;
+}
+.blog .blog_data h3{
+    font-weight: bold;
+    padding: 10px 0;
+    font-size: 30px;
+}
+.blog .blog_data p{
+    width: 70%;
+    font-size: 18px;
+}
+.g{
+    background-image: url(../mahdy/2000_5ae71ab56f906.webp);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    padding: 120px 0;
+    height: 150px;
+}
+.g h1{
+    color: #fff;
+
+}
+.g h2{
+    color: #fff;
+    padding-bottom: 1%;
+}
+.g p{
+    color: #fff;
+}
+.About{
+    padding: 50px 0;
+}
+.About h1{
+    font-size: 50px;
+    padding: 10px 0 50px;
+}
+.About p{
+    font-size: 20px;
+    padding: 0px 0 20px;
+    width: 88%;
+}
+.About img{
+    width: 300px;
+    height: 300px;
+}
+.contact{
+    padding: 50px 0;
+}
+.contact h1{
+    font-size: 50px;
+    padding: 20px 0 30px;
+}
+.contact input{
+    padding: 5px 10px;
+    font-size: 20px;
+    margin-right: 30px;
+    border-style: solid;
+    border-radius: 5px;
+}
+.contact button{
+    background-color: #DE4E26;
+    color: #fff;
+    border: solid #DE4E26;
+    border-radius: 5px;
+    padding: 5px 50px;
+    font-size: 20px;
+}
+footer{
+    background-color: #b5b4b4;
+    color: #fff;
+    padding: 50px 150px;
+    border-top: solid #f00;
+    display: flex;
+    justify-content: space-between;
+}
+footer ul{
+    display: flex;
+}
+footer ul li{
+    margin-right: 30px;
+    list-style: none;
+}
+.n{
+    padding: 50px 0;
+}
+.n h2{
+    padding: 20px 0;
+    font-size: 50px;
+}
+.n .nnn{
+    width: 70%;
+    display: flex;
+}
+.n .nnn .item{
+    width: 60%;
+    background-color: #f4f4f4;
+    margin-right: 30px;
+}
+.n .nnn img{
+    height: 300px;
+    width: 100%;
+}
+
+.n .nnn h1{
+    padding: 10px 0;
+}
+.n .nnn p{
+    padding-bottom: 50px;
+}
